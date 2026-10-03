@@ -1,3 +1,7 @@
+# Environment variables -- added 20261002
+.env
+.env.local
+
 # Logs
 logs
 *.log
